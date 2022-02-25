@@ -1,0 +1,22 @@
+{
+  "name": "lista-telefonica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "router-dom": "^2.2.9",
+    "sqlite3": "^5.0.2"
+  }
+}
